@@ -129,3 +129,4 @@ C:\Users\Rezz\Desktop\C#skola\AssetTrackingEntityFrameWork\obj\Debug\net8.0\refi
 C:\Users\Rezz\Desktop\C#skola\AssetTrackingEntityFrameWork\obj\Debug\net8.0\AssetTrackingEntityFrameWork.pdb
 C:\Users\Rezz\Desktop\C#skola\AssetTrackingEntityFrameWork\obj\Debug\net8.0\AssetTrackingEntityFrameWork.genruntimeconfig.cache
 C:\Users\Rezz\Desktop\C#skola\AssetTrackingEntityFrameWork\obj\Debug\net8.0\ref\AssetTrackingEntityFrameWork.dll
+C:\Users\Rezz\Desktop\C#skola\AssetTrackingEntityFrameWork\obj\Debug\net8.0\AssetTrackingEntityFrameWork.sourcelink.json
