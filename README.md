@@ -4,7 +4,12 @@ The Asset Tracking System is a .NET Core Console Application that helps manage c
 
 🎯 Features
 
-✅ Add, Update, Delete Assets (Laptops & Mobiles)✅ Add, Update, Delete Offices✅ Sort Assets by type and purchase date✅ Group Assets by office✅ Currency Conversion based on office location✅ Asset Lifecycle Tracking (RED, YELLOW, NORMAL status based on lifespan)
+✅ Add, Update, Delete Assets (Laptops & Mobiles)
+✅ Add, Update, Delete Offices
+✅ Sort Assets by type and purchase date
+✅ Group Assets by office
+✅ Currency Conversion based on office location
+✅ Asset Lifecycle Tracking (RED, YELLOW, NORMAL status based on lifespan)
 
 🛠️ Setup Instructions
 
